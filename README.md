@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/achalhingrajiya" target="blank"><img src="https://img.shields.io/twitter/follow/achalhingrajiya?logo=twitter&style=for-the-badge" alt="achalhingrajiya" /></a> </p>
 
-- 🔭 I’m currently working on [Instagram UI Clone](https://github.com/Achal-Hingrajiya/Instagram_UI_Clone)
+- 🔭 I’m currently working on [Artificial Intelligence]([https://github.com/Achal-Hingrajiya/Instagram_UI_Clone](https://github.com/Achal-Hingrajiya/artificial_intelligence))
 
-- 🌱 I’m currently learning **Flutter, Data Science**
-
-- 👯 I’m looking to collaborate on [InfyQt Previous Years Problems](https://github.com/Achal-Hingrajiya/Instagram_UI_Clone)
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
 - 📫 How to reach me **achalhingrajiya192@gmail.com**
 
